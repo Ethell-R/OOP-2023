@@ -9,6 +9,14 @@ public class Main
         processing.core.PApplet.runSketch( a, new HelloProcessing());
     }*/
 	/* 
+    }
+
+	public static void loops()
+	{
+		String[] a = {"MAIN"};
+        processing.core.PApplet.runSketch( a, new Loops());
+    }
+
 	public static void bugZap()
 	{
 		String[] a = {"MAIN"};
@@ -26,7 +34,7 @@ public class Main
 		//bugZap();
 	}
 
-	public static void main()
+	/*public static void main()
 	{
 		Cat ginger = new Cat();
 		ginger.setName("Ginger");
@@ -36,6 +44,6 @@ public class Main
 			ginger.kill(9);
 		}
 
-	}
+	}*/
 	
 }
